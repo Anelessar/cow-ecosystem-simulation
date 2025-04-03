@@ -1,0 +1,32 @@
+{
+  "TIME": 100,
+  "SEASON_LENGTH": 50,
+  "SEASON": 0,
+  "LENGTH": 100,
+  "GROW_SPEED": 0.01,
+  "GRASS_START": 0.5,
+  "GRASS_MAX": 1.0,
+  "GRASS_RANGE_EXPANSION": 3,
+  "GRASS_EXPANSION_LIMIT": 2,
+  "COWS_COUNT": 100,
+  "CHANCE_NUMERATOR": 1,
+  "CHANCE_DENOMINATOR": 10,
+  "BREED_TYPE": 1,
+  "ATP_START": 500,
+  "RAW_EAT_START": 0.3,
+  "AGE_MIN": 0.2,
+  "AGE_MULT": 1.0,
+  "AGE_T_WEIGHT": 0.1,
+  "BIRTH_COUNT": 2,
+  "CLIMATES": {
+    "Polar": [1, 0, 1, 2],
+    "Middle": [2, 1, 2, 3],
+    "Equator": [3, 3, 3, 3]
+  },
+  "SOILS": {
+    "desert": 0,
+    "steppe": 1,
+    "field": 2,
+    "forest": 3
+  }
+}
