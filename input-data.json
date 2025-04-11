@@ -1,23 +1,23 @@
 {
-  "TIME": 500,                    
-  "SEASON_LENGTH": 25,           
+  "TIME": 1000,                            
   "LENGTH": 10000,                
-  "GROW_SPEED": 5,            
+  "GROW_SPEED": 10,            
   "GRASS_START": 10,            
   "GRASS_MAX": 50,              
-  "COWS_COUNT": 100,
+  "COWS_COUNT": 1000,
   "ATP_START": 50,               
   "BREED_TYPE": 1,
   "BIRTH_COUNT": 1,
-  "BIRTH_ENERGY": 300,                              
-  "MAX_AGE": 100,          
+  "BIRTH_ENERGY": 500,
+  "MUTATION_RATE": 0.3,                                      
   "AGE_MIN": 50,
   "AGE_MULT": 0.1,
   "AGE_T_WEIGHT": 0.01,            
   "CLIMATES": {
     "Polar": [0, 1, 2, 1],
     "Middle": [1, 2, 3, 2],
-    "Equator": [3, 3, 3, 3]
+    "Equator": [2, 3, 3, 3]
+
   },
   "SOILS": {
     "desert": 0,
